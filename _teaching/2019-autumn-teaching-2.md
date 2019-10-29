@@ -1,7 +1,7 @@
 ---
 title: "KIT503 - ICT Professional Practices and Project Management"
 collection: teaching
-type: "postgraduate course"
+type: "Postgraduate course"
 permalink: /teaching/2019-autumn-teaching-2
 venue: "Discipline of ICT, UTAS"
 date: 2019-03-01
