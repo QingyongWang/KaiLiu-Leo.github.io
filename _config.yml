@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-AU"
-title                    : "Zehong (Jimmy) Cao/ PhD/ Lecturer"
+title                    : "Zehong (Jimmy) Cao/ University of Tasmania"
 title_separator          : "-"
-name                     : &name "Jimmy"
+name                     : &name "Zehong (Jimmy) Cao"
 description              : &description "personal description"
 url                      : https://czh513.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,10 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jimmy"
+  name             : "Zehong (Jimmy) Cao, PhD"
   avatar           : "3 Casual Photo-1.jpeg"
-  bio              : "AI+BCI change the world"
-  location         : "Hobart, Australia"
+  bio1             : "Lecturer (a.k.a. Assistant Professor)" 
+  bio2             : "AI+BCI change the world"
+  location         : "Hobart"
   employer         : "University of Tasmania, Australia"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=yaZg9lIAAAAJ&hl=en"
@@ -94,7 +95,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/caozehong"
+  # facebook         : "https://www.facebook.com/caozehong"
   foursquare       : 
   github           : "czh513"
   google_plus      :
