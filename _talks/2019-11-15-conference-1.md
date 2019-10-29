@@ -1,9 +1,9 @@
 ---
 title: "Similarity-DT: Kernel Similarity Embedding for Dynamic Texture Synthesis"
 collection: talks
-permalink: /talks/2012-03-01-talk-1
-location: "Pre-print link"
+permalink: /talks/2019-11-15-conference-1
+
 ---
 
 Submitted to CVPR2019 
-
+Pre-print link: ...
