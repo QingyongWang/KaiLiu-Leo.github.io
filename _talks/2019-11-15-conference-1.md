@@ -6,4 +6,5 @@ permalink: /talks/2019-11-15-conference-1
 ---
 
 Submitted to CVPR2019 
+
 Pre-print link: ...
