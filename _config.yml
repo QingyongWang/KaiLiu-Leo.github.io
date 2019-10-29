@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-AU"
-title                    : "Zehong (Jimmy) Cao/ University of Tasmania"
+title                    : "Zehong (Jimmy) Cao / University of Tasmania"
 title_separator          : "-"
 name                     : &name "Zehong (Jimmy) Cao"
 description              : &description "personal description"
@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Jimmy Cao, PhD"
   avatar           : "3 Casual Photo-1.jpeg"
-  bio              : "Lecturer *" 
-  bio              : "AI+BCI change the world"
+  bio              : "Lecturer * " 
   location         : "Hobart, Australia"
   employer         : "University of Tasmania"
   pubmed           : 
@@ -115,7 +114,8 @@ author:
   weibo            :
   xing             :
   youtube          :
-  bio              : "* Equivalent to Assistant Professor in North American universities"
+  comments         : "* Equivalent to Assistant Professor in North American universities"
+
 
 
 # Reading Files
