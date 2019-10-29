@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Jimmy Cao, PhD"
   avatar           : "3 Casual Photo-1.jpeg"
-  bio              : "Lecturer (a.k.a. Assistant Professor) / AI+BCI change the world" 
+  bio              : "Lecturer *" 
+  bio              : "AI+BCI change the world"
   location         : "Hobart, Australia"
   employer         : "University of Tasmania"
   pubmed           : 
@@ -114,7 +115,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  bio              : "* Equivalent to Assistant Professor in North American universities"
 
 
 # Reading Files
