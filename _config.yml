@@ -80,12 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zehong (Jimmy) Cao, PhD"
+  name             : "Jimmy Cao, PhD"
   avatar           : "3 Casual Photo-1.jpeg"
-  bio1             : "Lecturer (a.k.a. Assistant Professor)" 
-  bio2             : "AI+BCI change the world"
-  location         : "Hobart"
-  employer         : "University of Tasmania, Australia"
+  bio              : "Lecturer (a.k.a. Assistant Professor) / AI+BCI change the world" 
+  location         : "Hobart, Australia"
+  employer         : "University of Tasmania"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=yaZg9lIAAAAJ&hl=en"
   email            : "zehong.cao@utas.edu.au"
