@@ -55,7 +55,8 @@ Service and leadership
   
 * Guest Editor
   * 2019 IEEE Transactions on Emerging Topics in Computational Intelligence - SI “Emerging Computational Intelligence Techniques for Decision Making with Big Data in Uncertain Environments”
-  * 2018 IEEE Access - SI “Integrating Informatics and Their Applications in Health and Neural Engineering” 2018 Swarm and Evolutionary Computation - SI “Evolutionary Data Mining for Big Data”
+  * 2018 IEEE Access - SI “Integrating Informatics and Their Applications in Health and Neural Engineering” 
+  * 2018 Swarm and Evolutionary Computation - SI “Evolutionary Data Mining for Big Data”
   * 2018 International Journal of Distributed Sensor Networks – SI “Multi-Sensor Information Fusion
   * 2017 Neurocomputing - SI “Fuzzy Learning and Their Applications in Neural Engineering”
   
