@@ -3,7 +3,7 @@ title: "KIT105 - ICT Professional Practices"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-autumn-teaching-1
-venue: "ICT, UTAS"
+venue: "Discipline of ICT, UTAS"
 date: 2019-03-01
 
 ---
