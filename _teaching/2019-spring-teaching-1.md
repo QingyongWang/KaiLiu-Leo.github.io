@@ -1,5 +1,5 @@
 ---
-title: "KIT313 /613 - Human Computer Interaction"
+title: "KIT313/613 - Human Computer Interaction"
 collection: teaching
 type: "Undergraduate / Postgraduate course"
 permalink: /teaching/2019-spring-teaching-1
