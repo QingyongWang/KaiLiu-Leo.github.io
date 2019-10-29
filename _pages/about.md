@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Thanks for stopping by! Enjoy your visit!"
+title: "Thanks for stopping by!  Enjoy your visit!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 Biography
 ======
 I am currently a Lecturer (equivalent to Assistant Professor in North American universities) in Discipline of Information and Communication Technology (ICT), University of Tasmania (UTAS), Australia, and an Adjunct Fellow in School of Computer Science, University of Technology Sydney (UTS), Australia. Before joining UTAS, I was a Postdoc Research Fellow in the Centre for Artificial Intelligence (CAI), UTS. I received my PhD degree in Information Technology in UTS, under the supervision of Prof. Chin-Teng Lin. I personally have papers published in top-tier (ERA A*/A or JCR Q1) journals, such as IEEE TFS, IEEE TNNLS, IEEE TCYB, IEEE TSMC-S, IEEE TBME, IEEE TII, IEEE IoT, and ACM TOMM, INS, NC, IJNS and Scientific Data.
