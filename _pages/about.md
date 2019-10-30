@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Thanks for stopping by Jimmy's Homepage - Enjoy your visit"
+title: "Jimmy's Homepage - Enjoy your visit"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
