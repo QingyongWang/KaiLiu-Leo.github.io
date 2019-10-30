@@ -4,6 +4,6 @@ collection: talks
 permalink: /talks/2019-11-15-conference-1
 
 ---
-Submitted to CVPR2019, Pre-print version will release soon.
+Submitted to CVPR2020, Pre-print version will release soon.
 
 
