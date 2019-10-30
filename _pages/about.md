@@ -27,10 +27,10 @@ I am actively looking for self-motivated Honours, Master, and PhD students. The 
 
 The PhD scholarships are funded by: (a) Tasmania Graduate Research Scholarships or (b) China Scholarship Council (CSC). Please send me your resume, transcripts, and any publications if you are interested. See how to apply below.
 
-1. PhD application: (http://www.utas.edu.au/research/degrees/apply-now)
+1. PhD application: http://www.utas.edu.au/research/degrees/apply-now
 2. Scholarships: 
-a. (http://www.utas.edu.au/research/degrees/scholarships/international-scholarships)
-b. (https://www.utas.edu.au/research/degrees/scholarships/other-scholarships)
+a. http://www.utas.edu.au/research/degrees/scholarships/international-scholarships
+b. https://www.utas.edu.au/research/degrees/scholarships/other-scholarships
 
 Hobbies
 ======
@@ -40,5 +40,5 @@ Contact
 ======
 Office: Room 468, Centenary Building, Sandy Bay Campus, University of Tasmania, Hobart, TAS 7001, Australia
 
-Email: (zehong.cao@utas.edu.au) ; (zhcaonctu@gmail.com)
+Email: zehong.cao@utas.edu.au ; zhcaonctu@gmail.com
 
