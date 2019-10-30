@@ -21,16 +21,20 @@ My research interests mainly focus on developing computational intelligence mode
 1. Computational Intelligence: Fuzzy Sets and Systems, Deep Reinforcement Learning, Game-based Artificial Intelligence
 2. Neuro Informatics: Brain-Computer Interface, Multimodal Data Fusion, EEG Signal Processing
 
-Opening:
+Recruitment
 ======
-I am looking for self-motivated Honours, Master, and PhD students. Programming skill in at least one programming language is required (Python, Java, C++, C, R and Matlab) . There are lots of opportunities to work closely with computer scientists, IT engineers, and biomedical engineers.
+I am actively looking for self-motivated Honours, Master, and PhD students. The programming skill at least one programming language is required (Python, Java, C++, C, R and Matlab). Here, we have lots of opportunities to work closely with computer scientists, IT engineers, and biomedical engineers.
 
 The PhD scholarships are funded by: (a) Tasmania Graduate Research Scholarships or (b) China Scholarship Council (CSC). Please send me your resume, transcripts, and any publications if you are interested. See how to apply below.
 
-1. PhD application: http://www.utas.edu.au/research/degrees/apply-now
+1. PhD application: (http://www.utas.edu.au/research/degrees/apply-now)
 2. Scholarships: 
-a. http://www.utas.edu.au/research/degrees/scholarships/international-scholarships
-b. https://www.utas.edu.au/research/degrees/scholarships/other-scholarships
+a. (http://www.utas.edu.au/research/degrees/scholarships/international-scholarships)
+b. (https://www.utas.edu.au/research/degrees/scholarships/other-scholarships)
+
+Hobbies
+======
+Apart from the research, I have been passionate about fitness, cooking and travelling. I enjoy bodybuilding and recently joined a community fitness centre in Kingston and I am presently enrolled in a beginner's cooking class.
 
 Contact
 ======
