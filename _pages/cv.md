@@ -47,6 +47,33 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Grants and awards
+======
+* A Smart Move: Navy Seeks Partnerships to Bolster Artificial Intelligence Capabilities (Awarded, 2019-2022).
+  * Title:  Multi-agent Reinforcement Learning in Support of Human-Machine Cooperative Systems
+  * Funding: AUD $ 430,215/3 year funded by US Office of Naval Research Global
+  * Role: CO-Chief Investigator (CI).
+  
+* Australia Defence Science and Technology Group (Awarded, 2018-2019).
+  * Title: Intelligent Multi-agent Coordination and Learning
+  * Funding: $AUD195,508 funded by the Department of Australia Defence (www.dst.defence.gov.au). 
+  * Role: CO-Chief Investigator (CI).
+  
+* Australia NSW Defence Innovation Network Project Plan (Awarded, 2018).
+  * Title: HealthSense - Technological Human Health Sensors Capable of Monitoring, and Providing Feedback and Intervention to the User.
+  * Funding: $AUD125,163 funded by Defence Science and Technology Group (www.dst.defence.gov.au).
+  * Role: CO-Chief Investigator (CI).
+  
+* Key Member, China-Australia Millennial Project (2018)
+* CAI Best Paper Award, University of Technology Sydney (2017)
+* FEIT Publication Award, University of Technology Sydney (2017)
+* FEIT Post-Thesis Scholarship, University of Technology Sydney (2017)
+* CAI&FEIT Travel Fund Award, University of Technology Sydney (2017)
+* UTS President Scholarship, University of Technology Sydney (2015)
+* Songshanhu Scholarship, National Chiao Tung University & Dongguan Gov’t. (2014)
+* Outstanding Graduate, Electronic Engineering, Chinese University of Hong Kong (2013)
+* College Scholarship, Northeastern University (2009-2010)
+  
 Service and leadership
 ======
 * Associate Editor
