@@ -1,7 +1,9 @@
 ---
 title: "Graph representation learning with encoding edges"
+permalink: /publication/2019_Graph representation learning with encoding edges
 
 ---
-Qi. Li, Z. Cao*, J. Zhong and Qing. Li, Neurocomputing, 2019.
+Qi. Li, **Z. Cao**, J. Zhong and Qing. Li, Neurocomputing, 2019.
+
 
 
