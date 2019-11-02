@@ -69,8 +69,8 @@ Grants and awards
 * FEIT Publication Award, University of Technology Sydney (2017)
 * FEIT Post-Thesis Scholarship, University of Technology Sydney (2017)
 * CAI&FEIT Travel Fund Award, University of Technology Sydney (2017)
-* UTS President Scholarship, University of Technology Sydney (2015)
-* Songshanhu Scholarship, National Chiao Tung University & Dongguan Gov’t. (2014)
+* UTS President Scholarship, University of Technology Sydney (2015-2017)
+* Songshanhu Scholarship, National Chiao Tung University & Dongguan Gov’t. (2014-217)
 * Outstanding Graduate, Electronic Engineering, Chinese University of Hong Kong (2013)
 * College Scholarship, Northeastern University (2009-2010)
   
