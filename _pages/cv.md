@@ -77,7 +77,6 @@ Grants and awards
 Service and leadership
 ======
 * Associate Editor
-
   * 2019-Present Scientific Data (a data-focused journal from the publishers of Nature)
   * 2019-Present Journal of Intelligent and Fuzzy Systems
   * 2018-Present IEEE Access
