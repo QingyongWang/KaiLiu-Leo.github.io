@@ -79,7 +79,7 @@ Service and leadership
 * Associate Editor
   * 2019-Present Scientific Data (a data-focused journal from the publishers of Nature)
   * 2019-Present Journal of Intelligent and Fuzzy Systems
-  * 2018-Present IEEE Access
+  * 2018-2019 IEEE Access
   
 * Guest Editor
   * 2019 IEEE Transactions on Emerging Topics in Computational Intelligence - SI “Emerging Computational Intelligence Techniques for Decision Making with Big Data in Uncertain Environments”
