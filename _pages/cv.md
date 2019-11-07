@@ -19,12 +19,12 @@ Education
 
 Work experience
 ======
-* 05/2017 - 10/2017: Research Associate
+* [05/2017 - 10/2017] Research Associate
   * CI-BCI Lab, School of Software
   * University of Technology Sydney, NSW, Australia
   * Supervisor: Prof. Chin-Teng (CT) Lin
 
-* 11/2017 - 02/2019: Postdoc Research Fellow
+* [11/2017 - 02/2019] Postdoc Research Fellow
   * CI-BCI Lab, School of Software
   * University of Technology Sydney, NSW, Australia
   * Supervisor: Prof. Chin-Teng (CT) Lin  
@@ -77,16 +77,16 @@ Grants and awards
 Service and leadership
 ======
 * Associate Editor
-  * 2019-Present Scientific Data (a data-focused journal from the publishers of Nature)
-  * 2019-Present Journal of Intelligent and Fuzzy Systems
-  * 2018-2019 IEEE Access
+  * [2019-Present] Scientific Data (a data-focused journal from the publishers of Nature)
+  * [2019-Present] Journal of Intelligent and Fuzzy Systems
+  * [2018-2019] IEEE Access
   
 * Guest Editor
-  * 2019 IEEE Transactions on Emerging Topics in Computational Intelligence - SI “Emerging Computational Intelligence Techniques for Decision Making with Big Data in Uncertain Environments”
-  * 2018 IEEE Access - SI “Integrating Informatics and Their Applications in Health and Neural Engineering” 
-  * 2018 Swarm and Evolutionary Computation - SI “Evolutionary Data Mining for Big Data”
-  * 2018 International Journal of Distributed Sensor Networks – SI “Multi-Sensor Information Fusion
-  * 2017 Neurocomputing - SI “Fuzzy Learning and Their Applications in Neural Engineering”
+  * [2019] IEEE Transactions on Emerging Topics in Computational Intelligence - SI “Emerging Computational Intelligence Techniques for Decision Making with Big Data in Uncertain Environments”
+  * [2018] IEEE Access - SI “Integrating Informatics and Their Applications in Health and Neural Engineering” 
+  * [2018] Swarm and Evolutionary Computation - SI “Evolutionary Data Mining for Big Data”
+  * [2018] International Journal of Distributed Sensor Networks – SI “Multi-Sensor Information Fusion
+  * [2017] Neurocomputing - SI “Fuzzy Learning and Their Applications in Neural Engineering”
   
 * Reviewer / PC members
  * IEEE Transactions on [Fuzzy Systems], [Neural Networks and Learning Systems], [Cognitive and Developmental Systems], [Cybernetics], [Human-Machine Systems],[Systems, Man, and Cybernetics - Systems], [Emerging Topics in Computational Intelligence], [Knowledge and Data Engineering], [Industrial Informatics], [Biomedical Engineering], [Neural Systems and Rehabilitation Engineering].
