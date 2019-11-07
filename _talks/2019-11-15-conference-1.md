@@ -4,6 +4,7 @@ collection: talks
 permalink: /talks/2019-11-15-conference-1
 ---
 
-* Submitting to CVPR2020, Pre-print version will release soon.
+* Submitting to CVPR (Conference on Computer Vision and Pattern Recognition) 2020
+* Pre-print version will release soon.
 * [Find project information here](shiming-chen.github.io/Similarity-page/Similarity)
 
