@@ -48,17 +48,17 @@ Grants and awards
 ======
 * [2019-2022] A Smart Move: Navy Seeks Partnerships to Bolster Artificial Intelligence Capabilities
   * Title:  Multi-agent Reinforcement Learning in Support of Human-Machine Cooperative Systems
-  * Funding: AUD $ 430,215/3 year funded by US Office of Naval Research Global
+  * Funding: AUD $ 430,215/3 year funded by US Office of Naval Research Global.
   * Role: CO-Chief Investigator (CI).
   
 * [2018-2019] Australia Defence Science and Technology Group
   * Title: Intelligent Multi-agent Coordination and Learning
-  * Funding: $AUD195,508 funded by the Department of Australia Defence (www.dst.defence.gov.au). 
+  * Funding: $AUD195,508 funded by the Department of Australia Defence. 
   * Role: CO-Chief Investigator (CI).
   
 * [2018] Australia NSW Defence Innovation Network Project Plan
   * Title: HealthSense - Technological Human Health Sensors Capable of Monitoring, and Providing Feedback and Intervention to the User.
-  * Funding: $AUD125,163 funded by Defence Science and Technology Group (www.dst.defence.gov.au).
+  * Funding: $AUD125,163 funded by Defence Science and Technology Group.
   * Role: CO-Chief Investigator (CI).
   
 * [2018] Key Member, China-Australia Millennial Project.
