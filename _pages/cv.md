@@ -19,15 +19,12 @@ Education
 
 Work experience
 ======
-* [05/2017 - 10/2017] Research Associate
-  * CI-BCI Lab, School of Software
+* [05/2017-10/2017] Research Associate
+* [11/2017-02/2019] Postdoc Research Fellow
+  * School of Software
   * University of Technology Sydney, NSW, Australia
   * Supervisor: Prof. Chin-Teng (CT) Lin
 
-* [11/2017 - 02/2019] Postdoc Research Fellow
-  * CI-BCI Lab, School of Software
-  * University of Technology Sydney, NSW, Australia
-  * Supervisor: Prof. Chin-Teng (CT) Lin  
 
 News
 ======
@@ -49,36 +46,36 @@ Teaching
   
 Grants and awards
 ======
-* A Smart Move: Navy Seeks Partnerships to Bolster Artificial Intelligence Capabilities (Awarded, 2019-2022).
+* [2019-2022] A Smart Move: Navy Seeks Partnerships to Bolster Artificial Intelligence Capabilities
   * Title:  Multi-agent Reinforcement Learning in Support of Human-Machine Cooperative Systems
   * Funding: AUD $ 430,215/3 year funded by US Office of Naval Research Global
   * Role: CO-Chief Investigator (CI).
   
-* Australia Defence Science and Technology Group (Awarded, 2018-2019).
+* [2018-2019] Australia Defence Science and Technology Group
   * Title: Intelligent Multi-agent Coordination and Learning
   * Funding: $AUD195,508 funded by the Department of Australia Defence (www.dst.defence.gov.au). 
   * Role: CO-Chief Investigator (CI).
   
-* Australia NSW Defence Innovation Network Project Plan (Awarded, 2018).
+* [2018] Australia NSW Defence Innovation Network Project Plan
   * Title: HealthSense - Technological Human Health Sensors Capable of Monitoring, and Providing Feedback and Intervention to the User.
   * Funding: $AUD125,163 funded by Defence Science and Technology Group (www.dst.defence.gov.au).
   * Role: CO-Chief Investigator (CI).
   
-* Key Member, China-Australia Millennial Project (2018)
-* CAI Best Paper Award, University of Technology Sydney (2017)
-* FEIT Publication Award, University of Technology Sydney (2017)
-* FEIT Post-Thesis Scholarship, University of Technology Sydney (2017)
-* CAI&FEIT Travel Fund Award, University of Technology Sydney (2017)
-* UTS President Scholarship, University of Technology Sydney (2015-2017)
-* Songshanhu Scholarship, National Chiao Tung University & Dongguan Gov’t. (2014-217)
-* Outstanding Graduate, Electronic Engineering, Chinese University of Hong Kong (2013)
-* College Scholarship, Northeastern University (2009-2010)
+* [2018] Key Member, China-Australia Millennial Project.
+* [2017] CAI Best Paper Award, University of Technology Sydney.
+* [2017] FEIT Publication Award, University of Technology Sydney.
+* [2017] FEIT Post-Thesis Scholarship, University of Technology Sydney.
+* [2017] CAI&FEIT Travel Fund Award, University of Technology Sydney.
+* [2015-2017] UTS President Scholarship, University of Technology Sydney.
+* [2014-2017] Songshanhu Scholarship, National Chiao Tung University & Dongguan Gov’t.
+* [2013] Outstanding Graduate, Electronic Engineering, Chinese University of Hong Kong.
+* [2009-2010] College Scholarship, Northeastern University.
   
 Service and leadership
 ======
 * Associate Editor
-  * [2019-Present] Scientific Data (a data-focused journal from the publishers of Nature)
-  * [2019-Present] Journal of Intelligent and Fuzzy Systems
+  * [2019-] Scientific Data (a data-focused journal from the publishers of Nature)
+  * [2019-] Journal of Intelligent and Fuzzy Systems
   * [2018-2019] IEEE Access
   
 * Guest Editor
