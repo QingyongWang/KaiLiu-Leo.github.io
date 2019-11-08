@@ -25,7 +25,7 @@ Recruitment
 ======
 I am actively looking for self-motivated Honours, Master, and PhD students. The programming skill at least one programming language is required (Python, Java, C++, C, R and Matlab). Here, we have lots of opportunities to work closely with computer scientists, IT engineers, and biomedical engineers.
 
-The PhD scholarships are funded by: (a) [Tasmania Graduate Research Scholarships](http://www.utas.edu.au/research/degrees/scholarships/international-scholarships) or (b) [China Scholarship Council (CSC)](https://www.utas.edu.au/research/degrees/scholarships/other-scholarships). Please send me your resume, transcripts, and any publications if you are interested. See how to apply a PhD program [here](http://www.utas.edu.au/research/degrees/apply-now) and find my advertised PhD projects [here] (https://www.utas.edu.au/research/degrees/available-phd-projects/_nocache).
+The PhD scholarships are funded by: (a) [Tasmania Graduate Research Scholarships](http://www.utas.edu.au/research/degrees/scholarships/international-scholarships) or (b) [China Scholarship Council (CSC)](https://www.utas.edu.au/research/degrees/scholarships/other-scholarships). Please send me your resume, transcripts, and any publications if you are interested. See how to apply a PhD program [here](http://www.utas.edu.au/research/degrees/apply-now) and find my advertised PhD projects [here](https://www.utas.edu.au/research/degrees/available-phd-projects/_nocache).
 
 Hobbies
 ======
