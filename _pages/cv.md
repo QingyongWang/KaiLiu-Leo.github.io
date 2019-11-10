@@ -74,9 +74,9 @@ Grants and awards
 Service and leadership
 ======
 * Associate Editor
-  * [2019-] Scientific Data (a data-focused journal from the publishers of Nature)
-  * [2019-] Journal of Intelligent and Fuzzy Systems
-  * [2018-2019] IEEE Access
+  * [2019-] [Scientific Data](https://www.nature.com/sdata) (a data-focused journal from the publishers of Nature)
+  * [2019-] [Journal of Intelligent and Fuzzy Systems](https://www.iospress.nl/journal/journal-of-intelligent-fuzzy-systems/)
+  * [2018-2019] [IEEE Access](https://ieeeaccess.ieee.org)
   
 * Guest Editor
   * [2019] IEEE Transactions on Emerging Topics in Computational Intelligence - SI “Emerging Computational Intelligence Techniques for Decision Making with Big Data in Uncertain Environments”
@@ -85,8 +85,11 @@ Service and leadership
   * [2018] International Journal of Distributed Sensor Networks – SI “Multi-Sensor Information Fusion
   * [2017] Neurocomputing - SI “Fuzzy Learning and Their Applications in Neural Engineering”
   
-* Reviewer / PC members
+* Committee
+  * [2019−] Vice-Chair, Task Force: [Granular Data Mining for Big Data](https://weipingding98.github.io/index.html), IEEE Computational Intelligence Society 
+  
+* Reviewer / PC member
  * IEEE Transactions on [Fuzzy Systems], [Neural Networks and Learning Systems], [Cognitive and Developmental Systems], [Cybernetics], [Human-Machine Systems],[Systems, Man, and Cybernetics - Systems], [Emerging Topics in Computational Intelligence], [Knowledge and Data Engineering], [Industrial Informatics], [Biomedical Engineering], [Neural Systems and Rehabilitation Engineering].
  * IEEE Internet of Things Journal, IEEE Access, ACM Transactions on Multimedia Computing Communications and Applications (TOMM), IEEE Journal of Translational Engineering in Health and Medicine.
  * Information Science, Knowledge-based Systems, Neurocomputing, International Journal of Neural Systems, NeuroImage, Human Brain Mapping, Cephalalgia, Journal of Headache Pain, Frontiers in Neuroscience, and Frontiers in Human Neuroscience.
- * PC Member, 2017/2018/2019/2020 IEEE International Conference on Fuzzy Systems, 2019 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2019 Pacific Rim Knowledge Acquisition Workshop (PKAW), Pacific Rim International Conferences on Artificial Intelligence (PRICAI), 2019 IEEE Smart World Congress (SmartWorld).
+ * 2017/2018/2019/2020 IEEE International Conference on Fuzzy Systems, 2019 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2019 Pacific Rim Knowledge Acquisition Workshop (PKAW), Pacific Rim International Conferences on Artificial Intelligence (PRICAI), 2019 IEEE Smart World Congress (SmartWorld).
