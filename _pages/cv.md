@@ -15,7 +15,7 @@ Education
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * 2018.06-Present National University of Defense Technology
-</br>&ensp;&ensp;&ensp;&ensp;&ensp;PhD of Management Science and Engineering
+</br>&emsp;&emsp;&emsp;&emsp;&emsp;PhD of Management Science and Engineering
 * 2015.09-2018.06 Shandong University
 
                   Master of Mechanical Manufacturing and Automation
