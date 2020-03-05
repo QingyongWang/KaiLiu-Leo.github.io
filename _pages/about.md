@@ -15,14 +15,10 @@ I am interested in the overlap of Nature Language Process(NLP) and Cybersecurity
 Research Interests
 ======
 (1) Information Extraction of Cybersecurity Data
-
-(2) Cybersecurity Knowledge Graph
-
-(3) Users’ Behavior Analysis in Cyberspace
-
-(4) Deep Transfer Learning
-
-(5) Few-shot Learning in NLP.
+<br/>(2) Cybersecurity Knowledge Graph
+<br/>(3) Users’ Behavior Analysis in Cyberspace
+<br/>(4) Deep Transfer Learning
+<br/>(5) Few-shot Learning in NLP.
 
 News
 ======
