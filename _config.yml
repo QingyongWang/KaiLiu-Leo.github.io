@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-AU"
-title                    : "Zehong (Jimmy) Cao / University of Tasmania"
+title                    : "Qingyong Wang / NUDT"
 title_separator          : "-"
-name                     : &name "Zehong (Jimmy) Cao"
+name                     : &name "Qingyong"
 description              : &description "personal description"
 url                      : https://qywa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jimmy Cao, PhD"
+  name             : "Qingyong, PhD"
   avatar           : "3 Casual Photo-1.jpeg"
   bio              : "Lecturer (aka. AP in US)"
   location         : "Hobart, Australia"
