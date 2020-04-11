@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Qingyong, PhD"
   avatar           : "http://wang.finlab.cn/wqy/qywang.jpg"
-  bio              : "Lecturer (aka. AP in US)"
-  location         : "Hobart, Australia"
+  bio              : "Dr"
+  location         : "CS, Australia"
   employer         : "University of Tasmania"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=yaZg9lIAAAAJ&hl=en"
-  email            : "zehong.cao@utas.edu.au"
+  email            : "wang@utas.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Zehong_Cao2"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   # facebook         : "https://www.facebook.com/caozehong"
   foursquare       : 
-  github           : "czh513"
+  github           : "github"
   google_plus      :
   keybase          :
   instagram        :
