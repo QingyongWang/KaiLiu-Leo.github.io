@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qingyong, PhD"
-  avatar           : "http://wang.finlab.cn/wqy/qywang.jpg"
-  bio              : "Welcome this website"
+ # name             : "Qingyong, PhD"
+ # avatar           : "http://wang.finlab.cn/wqy/qywang.jpg"
+ # bio              : "Welcome this website"
   #location         : "CS, Australia"
   #employer         : "University of Tasmania"
   pubmed           : 
