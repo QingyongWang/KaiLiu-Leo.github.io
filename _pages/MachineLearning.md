@@ -2,8 +2,8 @@
 permalink: /MachineLearning/
 title: "Machine Learning"
 author_profile: true
-redirect_from: 
-  - /MachineLearning/
+#redirect_from: 
+#  - /MachineLearning/
 ---
 
 ## Locations of key files/directories
