@@ -14,7 +14,7 @@ An undergraduate student needs to acquire an understanding of the vast and diver
 ======
 [Machine Learning](http://qywa.github.io/MachineLearning)
 
-[Machine Learning -3](./MachineLearning)
+[Machine Learning -3](/MachineLearning)
 Heading 2
 ======
 
