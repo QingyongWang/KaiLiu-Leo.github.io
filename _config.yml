@@ -83,12 +83,12 @@ author:
   name             : "Qingyong, PhD"
   avatar           : "http://wang.finlab.cn/wqy/qywang.jpg"
   bio              : "Dr"
-  location         : "CS, Australia"
-  employer         : "University of Tasmania"
+  #location         : "CS, Australia"
+  #employer         : "University of Tasmania"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=yaZg9lIAAAAJ&hl=en"
-  email            : "wang@utas.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Zehong_Cao2"
+  #googlescholar    : "https://scholar.google.com/citations?user=yaZg9lIAAAAJ&hl=en"
+  email            : "wang@cnu.ac.cn"
+  #researchgate     : "https://www.researchgate.net/profile/Zehong_Cao2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,17 +96,17 @@ author:
   flickr           :
   # facebook         : "https://www.facebook.com/caozehong"
   foursquare       : 
-  github           : "github"
+ # github           : "github"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "zehong-cao-7a09b080"
-  orcid            : "https://orcid.org/0000-0003-3656-0328"
+ # linkedin         : "zehong-cao-7a09b080"
+ # orcid            : "https://orcid.org/0000-0003-3656-0328"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  #stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : 
