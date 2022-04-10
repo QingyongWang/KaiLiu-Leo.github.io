@@ -2,9 +2,9 @@
 layout: archive
 title: "Publish"
 permalink: /publications-new/
-author_profile: false
+author_profile: true
 redirect_from:
-  - /resume
+  - /publications-new
 ---
 
 {% include base_path %}
