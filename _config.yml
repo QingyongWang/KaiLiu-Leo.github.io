@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-AU"
-title                    : "Qingyong Wang / NUDT"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Qingyong"
 description              : &description "personal description"
