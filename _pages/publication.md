@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publish"
+title: "Publications"
 permalink: /publication/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+#Education
 ======
 * wqd B.S. in Electronic Information Engineering, Northeastern University, China , 2012
 * 
