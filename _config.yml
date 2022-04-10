@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Qingyong, PhD"
   avatar           : "http://wang.finlab.cn/wqy/qywang.jpg"
-  bio              : "Dr"
+  bio              : "Welcome this website"
   #location         : "CS, Australia"
   #employer         : "University of Tasmania"
   pubmed           : 
   #googlescholar    : "https://scholar.google.com/citations?user=yaZg9lIAAAAJ&hl=en"
-  email            : "wang@cnu.ac.cn"
+  #email            : "wang@cnu.ac.cn"
   #researchgate     : "https://www.researchgate.net/profile/Zehong_Cao2"
   uri              :
   bitbucket        :
