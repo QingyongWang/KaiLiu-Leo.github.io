@@ -13,35 +13,26 @@ redirect_from:
 ======
 * wqd B.S. in Electronic Information Engineering, Northeastern University, China , 2012
 * 
-Resting-state EEG power and coherence vary between migraine phases
+♦  First author, FedSPL: Federated self-paced learning for privacy-preserving disease diagnosis, Briefings in Bioinformatics, (中科院一区期刊，JCR一区), SCI IF=11.62, 2022. (doi).
 
-* EEG-Based Brain-Computer Interfaces: A Novel Neurotechnology and Computational Intelligence Method
+♦  First author, M2SPL: Generative multiview features with adaptive meta-self-paced sampling for class-imbalance learning, Expert Systems with Applications(中科院二区TOP, CCF C journal, JCR1区), SCI IF=6.95, May 2022 (doi).
 
-Forehead EEG in Support of Future Feasible Personal Healthcare Solutions at Home
+♦  First author, Adaptive Sampling Using Self-paced Learning for Imbalanced Cancer Data Pre-diagnosis, Expert Systems with Applications(中科院二区TOP, CCF C journal, JCR1区), SCI IF=4.292, May 2020 (doi).
 
-* Exploring resting-state EEG complexity before migraine attacks
+♦  First author, Random forest with self-paced bootstrap learning in lung cancer prognosis, ACM Transactions on Multimedia Computing Communications and Applications(CCF B journal, JCR1区), SCI IF=2.87, 2020(doi). 
 
-A Modified Distance Dynamics Model for Improvement of Community Detection
-Parallel Community Detection Based on Distance Dynamics For Large-scale Network
+♦  Third author, Identifying vital nodes in complex networks by adjacency information entropy, Scientific Reports, SCI IF=4.011, February 2020, 10(1): 1-12.(doi).
 
-A Community Merger of Optimization Algorithm to Extract Overlapping Communities in Networks
-Brain Electrodynamic and Hemodynamic Signatures of Fatigue during Driving
+♦Third author, Vulnerability Severity Prediction With Deep Neural Network, 2019 5th IEEE International Conference on Big Data and Information Analytics (BigDIA), 2019 (doi)(PDF).
 
-* A Layered-Coevolution-Based Attribute-Boosted Reduction Using Adaptive Quantum Behavior PSO and Its Consistent Segmentation for Neonates Brain Tissue
+♦Sencond author, Descriptor Selection Improvements for Quantitative Structure-activity Relationships, International Journal of Neural Systems(Top journal, 中科院分区一区), Vol. 29, No. 8, 2019 (doi).
 
-Shared Nearest Neighbor Quantum Game-based Attribute Reduction with Hierarchical Co-evolutionary Spark and Application in Consistent Segmentation of Neonatal Cerebral Cortex
+♦First author, Semi-supervised learning with ensemble self-training for cancer classification，The 15th IEEE International Conference on Ubiquitous Intelligence and Computing (IEEE UIC 2018), Guangzhou, China, October 8-12, 2018. (CCF recommended Class C)(doi)
 
-Deep Neuro-cognitive Co-evolution for Fuzzy Attribute Reduction by Quantum Leaping PSO with Nearest-neighbor Memeplexes
-* * 
-* * 
-* 
-* 
-* Inherent Fuzzy Entropy for the Improvement of EEG Complexity Evaluation
-Identifying Ketamine Responses in Treatment-Resistant Depression Using a Wearable Forehead EEG
+♦ First author, Data Analysis on Video Streaming QoE over Mobile Networks, EURASIP Journal on Wireless Communications and Networking, SCI IF=2.42, July, 2018 (doi).
 
-Optimizing Streaming Graph Partitioning via a Heuristic Greedy Method and Caching Strategy
-An Interval-valued Pythagorean prioritized operator based game theoretical framework with its applications in multicriteria group decision-making
-Semi-Supervised Feature Learning to Improve Writer Identifications
-Multi-channel EEG recordings during a sustained-attention driving task
-Effects of Repetitive SSVEPs on EEG Complexity using Inherent Fuzzy Entropy
+♦ First author, Data-Driven QoE Analysis on Video Streaming in Mobile Networks, The 15th IEEE International Symposium on Parallel and Distributed Processing with Applications (IEEE ISPA 2017) Guangzhou, China, December 12-15, 2017. (CCF recommended Class C)(doi)
 
+♦  First author, A Smart MCDM Framework to Evaluate Impact of Air Pollution on City Sustainability: A Case Study from China, Sustainability, SCI IF=2.02, May 2017, 9(6), 911(doi).
+
+♦  Co-author, list([doi](https://www.researchgate.net/profile/Qingyong-Wang-3/publications)).
