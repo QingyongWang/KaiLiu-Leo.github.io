@@ -5,12 +5,12 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
+ 
 ---
 
 Biography
 ======
-I am currently an Assistant Professor in Discipline of Information and Communication Technology (ICT), N University, Australia, and an [Adjunct Fellow](https://www.uts.edu.au/staff/zehong.cao) in School of Computer Science, University of Technology Sydney (UTS), Australia. Before joining UTAS,  I received my PhD degree in Science and Information Engineering in NUDT. I personally have papers published in top-tier (ERA A*/A or JCR Q1) journals, such as IEEE TFS, IEEE TNNLS, IEEE TCYB, IEEE TSMC-S, IEEE TBME, IEEE TCDS, IEEE TII, IEEE TIA, ESWA, and ACM TOMM, INS, NC, IJNS, NeuroImage and BiB.
+I am currently an Assistant Professor in Discipline of Information and Communication Technology (ICT), N University, Australia, and an [Adjunct Fellow](https://www.uts.edu.au/staff/zehong.cao) in School of Computer Science, University of Technology Sydney (UTS), Australia. Before joining CSU,  I received my PhD degree in Information Science and Engineering in NUDT. I personally have papers published in top-tier (ERA A*/A or JCR Q1) journals, such as IEEE TFS, IEEE TNNLS, IEEE TCYB, IEEE TSMC-S, IEEE TBME, IEEE TCDS, IEEE TII, IEEE TIA, ESWA, and ACM TOMM, INS, NC, IJNS, NeuroImage and BiB.
 
 My research interests cover neural computation, brain-computer interface, fuzzy sets and neural networks and deep reinforcement learning. Currently, I am mainly focusing on the capacity of the human-in-the-loop machine learning and applications. If you are a self-motivated student and keen on a research project to work with me, please drop me an email.
 
