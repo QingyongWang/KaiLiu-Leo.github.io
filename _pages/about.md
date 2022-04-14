@@ -10,7 +10,7 @@ redirect_from:
 
 Biography
 ======
-I am currently an Assistant Professor in Discipline of Information and Communication Technology (ICT), N University, Australia, and an [Adjunct Fellow](https://www.uts.edu.au/staff/zehong.cao) in School of Computer Science, University of Technology Sydney (UTS), Australia. Before joining UTAS, I was a Postdoc Research Fellow in the Centre for Artificial Intelligence (CAI), UTS. I received my PhD degree in Information Technology in UTS, under the supervision of Distinguished Prof. [Chin-Teng Lin](https://www.uts.edu.au/staff/chin-teng.lin). I personally have papers published in top-tier (ERA A*/A or JCR Q1) journals, such as IEEE TFS, IEEE TNNLS, IEEE TCYB, IEEE TSMC-S, IEEE TBME, IEEE TCDS, IEEE TII, IEEE TIA, IEEE IoT, and ACM TOMM, INS, NC, IJNS, NeuroImage and Scientific Data.
+I am currently an Assistant Professor in Discipline of Information and Communication Technology (ICT), N University, Australia, and an [Adjunct Fellow](https://www.uts.edu.au/staff/zehong.cao) in School of Computer Science, University of Technology Sydney (UTS), Australia. Before joining UTAS,  I received my PhD degree in Science and Information Engineering in NUDT. I personally have papers published in top-tier (ERA A*/A or JCR Q1) journals, such as IEEE TFS, IEEE TNNLS, IEEE TCYB, IEEE TSMC-S, IEEE TBME, IEEE TCDS, IEEE TII, IEEE TIA, ESWA, and ACM TOMM, INS, NC, IJNS, NeuroImage and BiB.
 
 My research interests cover neural computation, brain-computer interface, fuzzy sets and neural networks and deep reinforcement learning. Currently, I am mainly focusing on the capacity of the human-in-the-loop machine learning and applications. If you are a self-motivated student and keen on a research project to work with me, please drop me an email.
 
@@ -27,21 +27,21 @@ I am actively looking for self-motivated Honours, Master, and PhD students. The 
 
 The PhD scholarships are funded by: (a) [Tasmania Graduate Research Scholarships](http://www.utas.edu.au/research/degrees/scholarships/international-scholarships) or (b) [China Scholarship Council (CSC)](https://www.utas.edu.au/research/degrees/scholarships/other-scholarships). Please send me your resume, transcripts, and any publications if you are interested. See how to apply a PhD program [here](http://www.utas.edu.au/research/degrees/apply-now) and find my advertised PhD projects [here](https://www.utas.edu.au/research/degrees/available-phd-projects/_nocache).
 
-Education
+# Education
 ======
-* B.S. in Electronic Information Engineering, Northeastern University, China , 2012
-* M.S. in Electronic Engineering, The Chinese University of Hong Kong, SAR China, 2013
-* Ph.D in Electrical and Control Engineering, National Chiao Tung University, Taiwan, 2017 
-* Ph.D in Information Technology, University of Technology Sydney, Australia, 2017 
-  * Supervisor: Prof. Chin-Teng (CT) Lin
+# * B.S. in Electronic Information Engineering, Northeastern University, China , 2012
+# * M.S. in Electronic Engineering, The Chinese University of Hong Kong, SAR China, 2013
+# * Ph.D in Electrical and Control Engineering, National Chiao Tung University, Taiwan, 2017 
+# * Ph.D in Information Technology, University of Technology Sydney, Australia, 2017 
+#  * Supervisor: Prof. Chin-Teng (CT) Lin
 
-Work experience
-======
-* [05/2017-10/2017] Research Associate
-* [11/2017-02/2019] Postdoc Research Fellow
-  * School of Software
-  * University of Technology Sydney, NSW, Australia
-  * Supervisor: Prof. Chin-Teng (CT) Lin
+# Work experience
+# ======
+# * [05/2017-10/2017] Research Associate
+# * [11/2017-02/2019] Postdoc Research Fellow
+ # * School of Software
+ # * University of Technology Sydney, NSW, Australia
+ # * Supervisor: Prof. Chin-Teng (CT) Lin
 
 
 News
@@ -50,17 +50,17 @@ News
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+# Publications
+# ======
+ # <ul>{% for post in site.publications %}
+ #   {% include archive-single-cv.html %}
+ # {% endfor %}</ul>
   
-Teaching
+# Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#  <ul>{% for post in site.teaching %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
 Grants and awards
 ======
@@ -114,7 +114,6 @@ Service and leadership
 
 Contact
 ======
-Office: Room 468, Centenary Building, Sandy Bay Campus, University of Tasmania, Hobart, TAS 7001, Australia
+# Office: Room 468, Centenary Building, Sandy Bay Campus, University of Tasmania, Hobart, TAS 7001, Australia
 
-Email: zehong.cao@utas.edu.au ; zhcaonctu@gmail.com
-
+Email: wang@finlab.cn
